@@ -5,7 +5,7 @@ module.exports = {
     description: '',
     language: 'en',
     url: 'http://localhost',
-    pathPrefix: '/',
+    pathPrefix: '/makecode-apcsp',
     gaTrackingId: null,
     siteImage: null,
     favicon: '/assets/favicon.png',
