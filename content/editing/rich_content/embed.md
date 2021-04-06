@@ -55,7 +55,7 @@ https://instagram.com/p/B60jPE6J8U-
 
 **Result:**
 
-https://instagram.com/p/B60jPE6J8U-
+https://instagram.com
 
 ### Lichess
 
