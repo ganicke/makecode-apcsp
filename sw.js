@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-27acb9b9a88477bd5e0f.js"
+    "url": "webpack-runtime-bf5cfcf22656660e3909.js"
   },
   {
     "url": "framework-38197798e3e3e3374a2c.js"
@@ -42,11 +42,11 @@ self.__precacheManifest = [
     "url": "29107295-d34478c1f8c440784be3.js"
   },
   {
-    "url": "app-49b96d0e0035baee23f6.js"
+    "url": "app-c2f42d9a13bb9027e59b.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "9137fab2a5c2a17cc07c42b0128738ce"
+    "revision": "44e50e3ca803fd68eb1dd49e0fc5fc83"
   },
   {
     "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-c09128c136dc82a7928f.js"
@@ -73,14 +73,14 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "cca60d4d77c197656b953f173aa62567"
+    "revision": "cabe347ac0d902722f06cfe2b7a7a900"
   },
   {
     "url": "polyfill-1ed55f8bbc6911003305.js"
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "7fbacd5f4d9cb8248419f7d772ff9643"
+    "revision": "18bfa86f1f8539f75b28a68a41f2e984"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
@@ -167,12 +167,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/makecode-apcsp`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-49b96d0e0035baee23f6.js`))) {
+  if (!resources || !(await caches.match(`/makecode-apcsp/app-c2f42d9a13bb9027e59b.js`))) {
     return await fetch(event.request)
   }
 
@@ -185,7 +185,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/makecode-apcsp/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
