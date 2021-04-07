@@ -1,28 +1,26 @@
 ---
 metadata:
-  name: BooGi
-  short_name: BooGi
-  description: BooGi - awesome GitBook-like documentation generator using Gatsby
+  name: MakeCode AP CSP
+  short_name: MakeCode Computer Science Principles
+  description: Microsoft MakeCode Advanced Placement Computer Science Principles Curriculum
   language: en
   pathPrefix: "/"
   siteImage:
-  favicon: "/assets/favicon.png"
+  favicon: "https://microsoft.github.io/makecode-csp/favicon.ico"
   themeColor: "#ff0000"
 header:
   enabled: true
-  logo: "/assets/code.svg"
-  logoLink: "/"
+  logo: "https://microsoft.github.io/makecode-csp/assets/brand.svg"
+  logoLink: "https://microsoft.github.io/makecode-csp/"
+  githubRul: "https://github.com/ganicke/makecode-apcsp"
   helpUrl: ""
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-      external: true
-    - text: Gatsby
-      link: https://www.gatsbyjs.org
-      external: true
-    - text: Docs
+    - text: Teacher's Guide
       link: "/"
       external: false
+    - text: PL Trainer Materials
+      link: https://www.gatsbyjs.org
+      external: true
 sidebar:
   enabled: true
   # forcedNavOrder:
@@ -32,20 +30,20 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/overview"
+      title: ":world_map: Overview"
     - order: 2
-      path: "/configuration"
-      title: ":wrench: Configuration"
+      path: "/unit-1"
+      title: ":blue_book: Unit 1 - Intro to AP CSP"
     - order: 3
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
+      path: "/unit-2"
+      title: ":blue_book: Unit 2 - CSN"
     - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
+      path: "/unit-3"
+      title: ":blue_book: Unit 3 - AAP part 1"
     - order: 5
-      path: "/developing"
-      title: ":computer: Developing"
+      path: "/unit-4"
+      title: ":blue_book: Unit 4 - IOC"
   links:
     - text: BooGi
       link: https://github.com/filipowm/boogi
@@ -64,18 +62,18 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/filipowm/boogi
-  linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
-  twitter: twitter url
+  github: https://github.com/ganicke/makecode-apcsp
+  linkedin:
+  twitter:
 
 features:
   darkMode:
     enabled: true  
     default: false
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/ganicke/makecode-apcsp 
     type: github
-    editable: true
+    editable: false
   mermaid:
     language: "mermaid"
     theme: "dark"
@@ -96,7 +94,7 @@ features:
     arrowKeyNavigation: true
   propagateNetlifyEnv: true
   rss:
-    enabled: true
+    enabled: false
     title: BooGi Docs
     showIcon: false
     copyright: "2020, Mateusz Filipowicz"
