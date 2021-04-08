@@ -12,7 +12,7 @@ header:
   enabled: true
   logo: "https://microsoft.github.io/makecode-csp/assets/brand.svg"
   logoLink: "https://microsoft.github.io/makecode-csp/"
-  githubRul: "https://github.com/ganicke/makecode-apcsp"
+  githubUrl: "https://github.com/ganicke/makecode-apcsp"
   helpUrl: ""
   links:
     - text: Teacher's Guide
@@ -45,10 +45,10 @@ sidebar:
       path: "/unit-4"
       title: ":blue_book: Unit 4 - IOC"
   links:
-    - text: BooGi
-      link: https://github.com/filipowm/boogi
-    - text: React
-      link: https://reactjs.org
+    - text: Microsoft MakeCode
+      link: https://makecode.com
+    - text: AP Central CSP
+      link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
   ignoreIndex: false
   poweredBy:
     trademark: "/assets/gatsby.png"
@@ -62,7 +62,7 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/ganicke/makecode-apcsp
+  github:
   linkedin:
   twitter:
 

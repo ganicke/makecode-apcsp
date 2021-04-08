@@ -1,5 +1,6 @@
 ---
 title: "Day 3"
+order: 5
 ---
 
 ## Overview
