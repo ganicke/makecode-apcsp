@@ -1,5 +1,6 @@
 ---
 title: "Why Learn of Computer Science?"
+order: 0
 ---
 
 ## Summary
@@ -47,20 +48,20 @@ title: "Why Learn of Computer Science?"
 ### 3. Elements of a Computing System (5 minutes)
 
 * Discuss the elements of a computing system:
->* Software
->* Hardware
->* Network
->* Data
+    * Software
+    * Hardware
+    * Network
+    * Data
 
 ### 4. Why should we learn about Computer Science? (10 minutes)
 
 * Lead students in a discussion about why we should learn about Computer Science.
 * Use the following questions to guide the discussion:
->* Have you ever wondered how some technology works? Or tried to fix/setup a piece of technology? Tell us the story.
->* Has anyone ever asked you how some piece of technology works? Like your parents or grandparents? Tell us the story.
->* Did you ever have an idea for a new technology? Or wish that an app/game/device had some different features or could do something? Tell us the story.
->* Why do you think it's important for people to know about technology and how computers work? 
->* What kind of jobs/careers work with computers?
+    * Have you ever wondered how some technology works? Or tried to fix/setup a piece of technology? Tell us the story.
+    * Has anyone ever asked you how some piece of technology works? Like your parents or grandparents? Tell us the story.
+    * Did you ever have an idea for a new technology? Or wish that an app/game/device had some different features or could do something? Tell us the story.
+    * Why do you think it's important for people to know about technology and how computers work? 
+    * What kind of jobs/careers work with computers?
 
 ### 5. Good vs. Bad Technologies (15 minutes) 
 
