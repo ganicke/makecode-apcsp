@@ -51,7 +51,7 @@ order: 0
 
 ### 3. Teamwork Debrief (15 minutes)
 
-* Lead a discussion about how that group activity went.  (5 minutes) Use the following questions to guide the discussion:
+* Lead a discussion about how that group activity went.  (**5 minutes**) Use the following questions to guide the discussion:
     * Who was able to complete the challenge? How?
     * What were some of the problems you encountered?
     * Did you find one or two people doing most of the work?
@@ -61,7 +61,7 @@ order: 0
     * Did everyone feel valued and respected?
     * If you were to structure this activity again, how would you do it differently?
 
-* As a class, come up with a list of Teamwork Principles that you will use to guide all group activities going forward. In their groups, give students five minutes to create principles that cover the following concepts (5 minutes):
+* As a class, come up with a list of Teamwork Principles that you will use to guide all group activities going forward. In their groups, give students five minutes to create principles that cover the following concepts (**5 minutes**):
     * Expectations:
         * What do you expect from your fellow team members?
         * How do you want them to behave and contribute to the work?
