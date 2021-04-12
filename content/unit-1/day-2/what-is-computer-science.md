@@ -7,7 +7,7 @@ title: "What is Computer Science?"
 ### Materials
 
 * [Day 2 PowerPoint Dec](https://onedrive.live.com/view.aspx?resid=416406873CB120AB!2052&ithint=file%2cpptx&authkey=!APUSZnlL3zOya_E)
-* [List of famous computer scientists](https://www.ranker.com/list/notable-computer-scientist_s)/reference)
+* [List of famous computer scientists](https://www.ranker.com/list/notable-computer-scientist_s%29/reference)
 * [Dell Laptop Computers](https://www.dell.com/en-us/shop/scc/sc/laptops)
 
 ### Instructional Activities and Classroom Assessments
@@ -37,28 +37,28 @@ title: "What is Computer Science?"
 
 * Lead a discussion about the field of Computer Science. 
 * Use the following questions to guide your discussion: 
->* What is a computer?
->* What are examples of computers in your daily life?
->* What do you think the earliest computer was like?
->* What is computer hardware? Software? Networks? Data?
->* Can anyone name some famous Computer Scientists?
+    * What is a computer?
+    * What are examples of computers in your daily life?
+    * What do you think the earliest computer was like?
+    * What is computer hardware? Software? Networks? Data?
+    * Can anyone name some famous Computer Scientists?
 
 ### 2. What is a Computer? (5 minutes) 
 
->* Define a computer.
->* Discuss the history of computers.
+* Define a computer.
+* Discuss the history of computers.
 
 ### 3. What is computer "Hardware"? (15 minutes)
 
 * Define computer hardware: 
 * Discuss the parts of a computer 
->* Input 
->* Central Processing Unit (CPU) 
->* Output 
+    * Input 
+    * Central Processing Unit (CPU) 
+    * Output 
 * Measuring Computer Memory. 
 
 ### 4. Reaching Computer "Tech Specs" (15 minutes)
 
-* Send students to Dell Laptop Computers.
+* Send students to [Dell Laptop Computers](https://aka.ms/shopdell).
 * Guide students through the selection of a device.
 * Encourage them to explore the site to compare devices.

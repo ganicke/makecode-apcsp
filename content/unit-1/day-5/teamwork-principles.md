@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* [Day 5 PowerPoint deck](https://onedrive.live.com/view.aspx?resid=416406873CB120AB!2055&ithint=file%2cpptx&authkey=!AGxDa0uJ1b8-T-k)
+* [Day 5 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAdsQ2tLidW_Pk_p?e=xowCtA)
 * Materials for Teamwork Activity - see [Spaghetti Tower Challenge](../spagetti-tower-challenge) for specifics
 
 ### Instructional Activities and Classroom Assessments

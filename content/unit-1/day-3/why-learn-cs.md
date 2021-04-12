@@ -1,5 +1,6 @@
 ---
 title: "Why Learn of Computer Science?"
+metaTitle: "Why Learn of Computer Science?"
 order: 0
 ---
 
@@ -7,10 +8,10 @@ order: 0
 
 ### Materials
 
-[Day 3 PowerPoint deck](#)
-[Good vs. Bad Technologies Worksheet in OneNote](#)
-[Good vs. Bad Technologies Worksheet in Word](#)
-[Jeannette M. Wing's "Computational Thinking" Article](#)
+* [Day 3 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAURgj6J6FeTpA8d?e=x8G6ae)
+* [Good vs. Bad Technologies Worksheet](../good-vs-bad)
+* [Good vs. Bad Technologies Worksheet](https://1drv.ms/w/s!AqsgsTyHBmRBj3yNeXR7xZbR8th-?e=3BaPJO) (in Word)
+* [Jeannette M. Wing's "Computational Thinking" Article](../computational-thinking)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -68,7 +69,7 @@ order: 0
 * Students will work in small groups to complete the Good vs. Bad Technologies Activity.
 * Students will explore and discuss technologies that they view are good and bad.
 
-## 6. Homework 
+### 6. Homework 
 
 * If there is time, students can start their homework.
 * Students will read Jeanette Wing's Computational Thinking article.

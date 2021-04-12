@@ -32,14 +32,14 @@ title: "Intro to AP CSP"
 ### 1. Introductions (20 minutes) 
 
 * Educator -
->* Spend time introducing yourself, your previous teaching experience, and your interest/experience with technology and computer science.
->* Discuss how you see your role in the classroom and your objectives for the students (what you hope they get out of the class).
->* Establish any ground rules and behavioral expectations for your classroom (respect for all, no dumb questions, cues for attention, etc.).
+    * Spend time introducing yourself, your previous teaching experience, and your interest/experience with technology and computer science.
+    * Discuss how you see your role in the classroom and your objectives for the students (what you hope they get out of the class).
+    * Establish any ground rules and behavioral expectations for your classroom (respect for all, no dumb questions, cues for attention, etc.).
 * Students -
->* Have the students take turns and introduce themselves:
->>* Name
->>* Why did they sign up for this course?
->>* What do they hope to get out of the class?
+    * Have the students take turns and introduce themselves:
+        * Name
+        * Why did they sign up for this course?
+        * What do they hope to get out of the class?
 
 ### 2. Overview of Course Scope and Sequence (10 minutes)
 
@@ -47,11 +47,11 @@ title: "Intro to AP CSP"
 * Explain what students can expect over this course.
 * Discuss main goals of AP CSP.
 * After this course, students will be able to:
->* Code and read/analyze code.
->* Discuss the impact of computing innovations on society.
->* Collaborate in the development of solutions.
->* Understand computer science principles.
->* Develop programs that address real world problems.
+    * Code and read/analyze code.
+    * Discuss the impact of computing innovations on society.
+    * Collaborate in the development of solutions.
+    * Understand computer science principles.
+    * Develop programs that address real world problems.
 * Discuss the Computational Thinking Practices taught in the course.
 * Discuss the Big Ideas for the course.
 
