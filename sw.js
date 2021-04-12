@@ -27,29 +27,26 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-bf5cfcf22656660e3909.js"
+    "url": "webpack-runtime-083873e69dbe33e87202.js"
   },
   {
-    "url": "framework-38197798e3e3e3374a2c.js"
+    "url": "framework-5fece46f6a13a0b172e9.js"
   },
   {
     "url": "styles.f255f4bab14e3782dd0a.css"
   },
   {
-    "url": "styles-d77d47be424fbcd60de6.js"
+    "url": "styles-876046b6071408fa0a81.js"
   },
   {
-    "url": "29107295-d34478c1f8c440784be3.js"
-  },
-  {
-    "url": "app-1ac328c6dc44a093a568.js"
+    "url": "app-8f0b8cdf69972d00279c.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "6eec8e624d04faf4858bd5d379174547"
+    "revision": "9645251e55ba7948b11590585ca0d22f"
   },
   {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-c09128c136dc82a7928f.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-67dcaaa77461bac7cd5c.js"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -57,11 +54,11 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/sq/d/12478684.json",
-    "revision": "7016eb211b46061e40dbf56011c5e610"
+    "revision": "9723491b0c2646b4b7eca25f84571768"
   },
   {
     "url": "page-data/sq/d/2882937274.json",
-    "revision": "7eed9d6c7922f15b02f130182ad4a84f"
+    "revision": "807e42f5dde599f3a7d02c8779b5f7d4"
   },
   {
     "url": "page-data/sq/d/353167761.json",
@@ -73,10 +70,10 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "96474f021dc890409265423b84a459b2"
+    "revision": "027ca3740001df7ffb856e5b42754e4a"
   },
   {
-    "url": "polyfill-1ed55f8bbc6911003305.js"
+    "url": "polyfill-e045046490ebff3471dd.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -172,7 +169,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/makecode-apcsp/app-1ac328c6dc44a093a568.js`))) {
+  if (!resources || !(await caches.match(`/makecode-apcsp/app-8f0b8cdf69972d00279c.js`))) {
     return await fetch(event.request)
   }
 
