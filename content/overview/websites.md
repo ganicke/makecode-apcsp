@@ -6,7 +6,9 @@ order: 3
 
 You can share the following list with your IT department to ensure you and your students have access to all the sites used in this course: 
 
-Teachers can access all of the resources and teaching materials used in this course here - https://1drv.ms/u/s!AqsgsTyHBmRBjzAXAYw4u_WbPz4M?e=4YVchB
+Teachers can access all of the resources and teaching materials used in this course here -
+
+<DownloadCard title="Resources and Materials" url="https://1drv.ms/u/s!AqsgsTyHBmRBjzAXAYw4u_WbPz4M?e=4YVchB" />
 
 ## Unit 1
 
