@@ -6,13 +6,13 @@ title: "Intro to AP CSP"
 
 ### Materials
 
-* [Day 1 PowerPoint deck](https://onedrive.live.com/view.aspx?resid=416406873CB120AB!2057&ithint=file%2cpptx&authkey=!AJJukh-4bAfPpXw)
+* [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAmSbpIfuGwHz6V8?e=85Iat3)
 
 ### Instructional Activities and Classroom Assessments
 
 1. Introductions (20 minutes)
-* Educator
-* Students
+    * Educator
+    * Students
 2. Overview of Course Scope and Sequence (10 minutes)
 3. Grading and AP CSP Exam (5 minutes)
 4. Questions (10 minutes)

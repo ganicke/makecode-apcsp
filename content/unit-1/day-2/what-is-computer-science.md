@@ -6,7 +6,7 @@ title: "What is Computer Science?"
 
 ### Materials
 
-* [Day 2 PowerPoint Dec](https://onedrive.live.com/view.aspx?resid=416406873CB120AB!2052&ithint=file%2cpptx&authkey=!APUSZnlL3zOya_E)
+* [Day 2 PowerPoint Dec](https://1drv.ms/w/s!AqsgsTyHBmRBkAT1EmZ5S98zsmvx?e=e5aJJU)
 * [List of famous computer scientists](https://www.ranker.com/list/notable-computer-scientist_s%29/reference)
 * [Dell Laptop Computers](https://www.dell.com/en-us/shop/scc/sc/laptops)
 

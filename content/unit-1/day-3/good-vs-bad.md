@@ -1,5 +1,6 @@
 ---
 title: "Good vs. Bad Technologies"
+metaTitle: "Good vs. Bad Technologies"
 order: 1
 ---
 

@@ -8,10 +8,10 @@ order: 0
 
 ### Materials
 
-[Day 10 PowerPoint deck]()
-[A Pop-Up Japanese Cafe With Robot Servers Remotely Controlled by People With Disabilities]()
-[Computing Innovations Activity Worksheet]()
-[Computing Innovations Activity Worksheet]() (in Word)
+* [Day 10 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAuzV7Svz0SltNlw?e=fhelUW)
+* [A Pop-Up Japanese Cafe With Robot Servers Remotely Controlled by People With Disabilities](https://youtu.be/7HB6xLe2f3U)
+* [Computing Innovations Activity Worksheet]()
+* [Computing Innovations Activity Worksheet]() (in Word)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -23,11 +23,11 @@ order: 0
 
 ### Learning Objectives
 
-[CRD-2.A]() Describe the purpose of a computing innovation.
+* [CRD-2.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=41) Describe the purpose of a computing innovation.
 CRD-1.C
-[CRD-2.E]() Develop a program using a development process.
-[CRD-2.F]() Design a program and its user interface.
-[IOC-1.A]() Explain how an effect of a computing innovation can be both beneficial and harmful.
+* [CRD-2.E](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=43) Develop a program using a development process.
+* [CRD-2.F](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=44) Design a program and its user interface.
+* [IOC-1.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=121) Explain how an effect of a computing innovation can be both beneficial and harmful.
 
 ### Essential Knowledge
 
