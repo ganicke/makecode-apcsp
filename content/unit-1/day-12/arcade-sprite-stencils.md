@@ -8,4 +8,4 @@ Use the [MakeCode Arcade Stencilr](http://arcade-stencils.glitch.me/) tool to cr
 
 Alternately you can use the stencil images to create custom silkscreen shirts or posters.
 
-![MakeCode Arcade Sprite Stencil](sprite-stencils.jpg)
+![MakeCode Arcade Sprite Stencil](sprite-stencil.jpg)
