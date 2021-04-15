@@ -57,46 +57,25 @@ Computer systems and networks are used to transfer data. One of the largest and 
 
 Internet access to these sites:
 
-How Does the Internet Work? - Glad You Asked S1 
-
-The Internet as a System and Spirit 
-
-Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn 
-
-Using AI to Save Coral Reefs 
-
-Audi's Automated Factory Moves Closer to Industry 4.0 
-
-ThyssenKrupp Elevators (video) 
-
-UNDP fleet management system 
-
-Autonomous Virus-Killing Robots Show Promise in the Fight Against COVID-19 
-
-Hotel Smart Parking Solution 
-
-M-Lab's Speed Test 
-
-M-Lab's Visualizations 
-
-What is the Cloud?  
-
-Underwater Data Centers 
-
-W3schools.com 
-
-Glitch.com 
-
- 
+* [How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
+* [The Internet as a System and Spirit](https://www.cs.unm.edu/~joel/cs151/BlownToBits/BlownToBits_Appendix_The_Internet_as_System_and_Spirit.pdf)
+* [Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn](https://youtu.be/bAyrObl7TYE)
+* [Using AI to Save Coral Reefs](https://newsroom.intel.com/news/using-artificial-intelligence-save-coral-reefs/#gs.yt42c3)
+* [Audi's Automated Factory Moves Closer to Industry 4.0](https://www.intel.com/content/www/us/en/customer-spotlight/stories/audi-automated-factory.html)
+* [ThyssenKrupp Elevators](https://azure.microsoft.com/en-us/resources/videos/thyssenkrupp-giving-cities-a-lift-with-the-internet-of-things/) (video)
+* [UNDP fleet management system](https://customers.microsoft.com/en-us/story/822486-united-nations-development-programme-nonprofit-azure-iot)
+* [Autonomous Virus-Killing Robots Show Promise in the Fight Against COVID-19](https://www.intel.com/content/www/us/en/customer-spotlight/stories/akara-customer-story.html)
+* [Hotel Smart Parking Solution](https://customers.microsoft.com/en-us/story/crowneplazabelgrade-travel-transportation-azure)
+* [M-Lab's Speed Test](https://speed.measurementlab.net/#/)
+* [M-Lab's Visualizations](https://www.measurementlab.net/visualizations/)
+* [What is the Cloud?](https://youtu.be/gu4FYSFeWqg)
+* [Underwater Data Centers](https://youtu.be/lBeepqQBpvU)
+* [W3schools.com](www.w3schools.com)
+* [Glitch.com](www.glitch.com)
 
 Optional:  
 
-Behind the MakeCode Hardware - Radio in micro:bit 
-
-micro:bit Go Kits 
-
-MakeCode for micro:bit  
-
-MakeCode Radio Games  
-
- 
+* [Behind the MakeCode Hardware - Radio in micro:bit](https://youtu.be/Re3H2ISfQE8)
+* [micro:bit Go Kits](https://microbit.org/buy/)
+* [MakeCode for micro:bit](https://makecode.microbit.org/)
+* [MakeCode Radio Games](https://makecode.microbit.org/projects/radio-games)
