@@ -17,7 +17,7 @@ The questions students will explore in this unit include:
 
 Estimated Time:
 
-12 days (45-50 minute classes)
+12 days (45-50 minute classes)<br/>
 1 day optional extension activity
 
 ## Computational Thinking Practices
