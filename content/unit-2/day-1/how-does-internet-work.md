@@ -10,13 +10,13 @@ order: 0
 
 * [Day 1 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzZs__tNSQiZSH5L?e=I4KlHk)
 * [Vox Video - How Does the Internet Work? - Glad You Asked S1](https://youtu.be/TNQsmPf24go)
-* [Guided Video Notes: How Does the Internet Work?](#)
+* [Guided Video Notes: How Does the Internet Work?](./guided-video-notes)
 * [Guided Video Notes: How Does the Internet Work?](https://1drv.ms/w/s!AqsgsTyHBmRBjzUiR1P_g0A7k3a_?e=4TSQzs) (in Word)
-* [Answer Key to Guided Video Notes](../guided-video-notes)
-* [The Internet as System and Spirit Reading Assignment](#)
-* [Guided Reading Questions: The Internet as a System and Spirit](#)
+* [Answer Key to Guided Video Notes](../answer-key-guided-video-notes)
+* [The Internet as System and Spirit Reading Assignment](../internet-system-spirit)
+* [Guided Reading Questions: The Internet as a System and Spirit](../guided-reading-questions)
 * [Guided Reading Questions: the Internet as a System and Spirit](https://1drv.ms/w/s!AqsgsTyHBmRBjzSc5TJ_Apu9M9wp?e=4OcfaC) (in Word)
-* [Answer Key to Guided Reading Questions](#)
+* [Answer Key to Guided Reading Questions](../answer-key-guided-reading-notes)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -27,7 +27,8 @@ order: 0
 
 ### Learning Objectives
 
-* Computational Thinking Practices: [Skill 5.A](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=23)
+* Computational Thinking Practices: [Skill 5.A](https://apcentral.collegeboard.org/pdf/
+ap-computer-science-principles-course-and-exam-description.pdf#page=23)
 * [CSN-1.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=110) Explain how the Internet works.
 * [CSN-1.C](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=111) Explain how data are sent through the Internet via packets. 
 * CRD-2.A
