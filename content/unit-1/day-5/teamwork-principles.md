@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 5 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAdsQ2tLidW_Pk_p?e=xowCtA)
-* Materials for Teamwork Activity - see [Spaghetti Tower Challenge](../spagetti-tower-challenge) for specifics
+* Materials for Teamwork Activity - see [Spaghetti Tower Challenge](/unit-1/day-5/spagetti-tower-challenge) for specifics
 
 ### Instructional Activities and Classroom Assessments
 
@@ -44,7 +44,7 @@ order: 0
 
 ### 2. Teamwork Activity (20 minutes) 
 
-* Use the [Spaghetti Tower Challenge](../spagetti-tower-challenge) directions to set up the activity.
+* Use the [Spaghetti Tower Challenge](/unit-1/day-5/spagetti-tower-challenge) directions to set up the activity.
 * Divide the class up into groups of 3-5 students.
 * You can use the Group Generator program to randomly sort students.
 * Instruct students that they have 18 minutes to build the tallest tower possible that will support a marshmallow with the supplies provided.

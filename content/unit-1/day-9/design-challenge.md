@@ -10,7 +10,7 @@ order: 0
 
 * [Day 9 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkAy_Is3FQcSwyG-o?e=WhuXwB)
 * [Design Challenge Guide Handout](/unit-1/day-8/design-challenge-guide) (shared with students on Day 8)
-* [Design Challenge Reflection](../design-challenge-reflection) Handout 
+* [Design Challenge Reflection](/unit-1/day-9/design-challenge-reflection) Handout 
 * [Design Challenge Reflection](https://1drv.ms/w/s!AqsgsTyHBmRBkALbIY1YXA73XnLm?e=gcYKrF) Handout (in Word)
 
 ### Instructional Activities and Classroom Assessments

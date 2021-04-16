@@ -36,7 +36,7 @@ order: 0
 * CRD-2.B.4
 * [CRD-2.C.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) Program inputs are data sent to a computer for processing by a program. Input can come in a variety of forms, such as tactile, audio, visual, or text.
 * [CRD-2.C.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) An event is associated with an action and supplies input data to a program.
-* [CRD-2.C.3]() Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.
+* [CRD-2.C.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.
 * [CRD-2.C.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) Inputs usually affect the output produced by a program.
 * [CRD-2.C.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) In event-driven programming, program statements are executed when triggered rather than through the sequential flow of control.
 * [CRD-2.C.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=42) Input can come from a user or other programs.

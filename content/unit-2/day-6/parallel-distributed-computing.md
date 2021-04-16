@@ -11,8 +11,8 @@ order: 0
 * [Day 6 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjz2n4qHObblYfWJu?e=7JO3H6)
 * Deck of cards for each small group
 * [Big Data In 5 Minutes | What Is Big Data?| Introduction To Big Data |Big Data Explained |Simplilearn](https://youtu.be/bAyrObl7TYE)
-* [Real World Scenarios Handout](../real-world-scenarios) (cut the paper to separate each scenario)
-* [Day 6 Reflection](../reflection) (Homework)
+* [Real World Scenarios Handout](/unit-2/day-6/real-world-scenarios) (cut the paper to separate each scenario)
+* [Day 6 Reflection](/unit-2/day-6/reflection) (Homework)
 * [Day 6 Reflection](https://1drv.ms/w/s!AqsgsTyHBmRBjzuTk5OBzbu1BTi7?e=ewM0jk) (Homework) in Word
 
 ### Instructional Activities and Classroom Assessments

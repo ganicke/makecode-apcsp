@@ -11,10 +11,10 @@ order: 0
 * [Day 6 PowerPoint deck](https://1drv.ms/p/s!AqsgsTyHBmRBkAondcAaLVHZG9va?e=oqU7Vs)
 * [Microsoft Design: Empathy](https://youtu.be/ESTTX2u7Xi4) (with audio description)
 * Blank paper for Crazy 8 activity
-* [Design Thinking Practice: Create the Perfect House](../design-thinking-practice)
+* [Design Thinking Practice: Create the Perfect House](/unit-1/day-6/design-thinking-practice)
 * [Design Thinking Practice: Create the Perfect House](https://1drv.ms/w/s!AqsgsTyHBmRBj303Jh9kwmVIG2Cr?e=Ns9ITW) (worksheet in Word)
-* Optional: [Micro:bit Micro Pet Activity](../micro-pet-activity)
-* Optional: [Minecraft Build a House](../minecraft-build-house)
+* Optional: [Micro:bit Micro Pet Activity](/unit-1/day-6/micro-pet-activity)
+* Optional: [Minecraft Build a House](/unit-1/day-6/minecraft-build-house)
 
 ### Instructional Activities and Classroom Assessments
 

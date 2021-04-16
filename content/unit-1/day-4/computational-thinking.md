@@ -9,7 +9,7 @@ order: 0
 ### Materials
 
 * [Day 4 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAYtZLsgafBuCp5q?e=1fyGmp)
-* [Computational Thinking Activity](../computational-thinking-activity)
+* [Computational Thinking Activity](/unit-1/day-4/computational-thinking-activity)
 * [Computational Thinking Activity](https://1drv.ms/w/s!AqsgsTyHBmRBj34vs-4cM98vPKSF?e=JUPMT6) (Worksheet in Word)
 
 ### Instructional Activities and Classroom Assessments

@@ -10,8 +10,8 @@ order: 0
 
 * [Day 10 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBkAuzV7Svz0SltNlw?e=fhelUW)
 * [A Pop-Up Japanese Cafe With Robot Servers Remotely Controlled by People With Disabilities](https://youtu.be/7HB6xLe2f3U)
-* [Computing Innovations Activity Worksheet]()
-* [Computing Innovations Activity Worksheet]() (in Word)
+* [Computing Innovations Activity Worksheet](/unit-1/day-10/computing-innovations-activity)
+* [Computing Innovations Activity Worksheet](#) (in Word)
 
 ### Instructional Activities and Classroom Assessments
 
@@ -31,34 +31,34 @@ CRD-1.C
 
 ### Essential Knowledge
 
-* [CRD-2.A.1]() The purpose of computing innovations is to solve problems or to pursue interests through creative expression. 
-* [CRD-2.A.2]() An understanding of the purpose of a computing innovation provides developers with an improved ability to develop that computing innovation.
-* [CRD-1.C.1]() Effective collaborative teams practice interpersonal skills, including but not limited to:
+* [CRD-2.A.1](#) The purpose of computing innovations is to solve problems or to pursue interests through creative expression. 
+* [CRD-2.A.2](#) An understanding of the purpose of a computing innovation provides developers with an improved ability to develop that computing innovation.
+* [CRD-1.C.1](#) Effective collaborative teams practice interpersonal skills, including but not limited to:
     * Communication
     * Consensus building
     * Conflict resolution
     * Negotiation
-* [CRD-2.E.1]() A development process can be ordered and intentional, or exploratory in nature.
-* [CRD-2.E.2]() There are multiple development processes. The following phases are commonly used when developing a program: 
+* [CRD-2.E.1](#) A development process can be ordered and intentional, or exploratory in nature.
+* [CRD-2.E.2](#) There are multiple development processes. The following phases are commonly used when developing a program: 
     * Investigating and reflecting
     * Designing
     * Prototyping
     * Testing 
-* [CRD-2.E.3]() A development process that is iterative requires refinement and revision based on feedback, testing, or reflection throughout the process. This may require revisiting earlier phases of the process.
-* [CRD-2.F.4]() Program requirements describe how a program functions and may include a description of user interactions that a program must provide.
-* [CRD-2.F.5]() A program's specification defines the requirements for the program.
-* [CRD-2.F.6]() In a development process, the design phase outlines how to accomplish a given program specification.
-* [CRD-2.F.7]() The design phase of a program may include:
+* [CRD-2.E.3](#) A development process that is iterative requires refinement and revision based on feedback, testing, or reflection throughout the process. This may require revisiting earlier phases of the process.
+* [CRD-2.F.4](#) Program requirements describe how a program functions and may include a description of user interactions that a program must provide.
+* [CRD-2.F.5](#) A program's specification defines the requirements for the program.
+* [CRD-2.F.6](#) In a development process, the design phase outlines how to accomplish a given program specification.
+* [CRD-2.F.7](#) The design phase of a program may include:
     * Brainstorming
     * Planning and storyboarding
     * Organizing the program into modules and functional components
     * Creation of diagrams that represent the layouts of the user interface
     * Development of a testing strategy for the program
-* [IOC-1.A.1]() People create computing innovations.
-* [IOC-1.A.2]() The way people complete tasks often changes to incorporate new computing innovations.
-* [IOC-1.A.3]() Not every effect of a computing innovation is anticipated in advance.
-* [IOC-1.A.4]() A single effect can be viewed as both beneficial and harmful by different people, or even by the same person.
-* [IOC-1.A.5]() Advances in computing have generated and increased creativity in other fields, such as medicine, engineering, communications, and the arts.
+* [IOC-1.A.1](#) People create computing innovations.
+* [IOC-1.A.2](#) The way people complete tasks often changes to incorporate new computing innovations.
+* [IOC-1.A.3](#) Not every effect of a computing innovation is anticipated in advance.
+* [IOC-1.A.4](#) A single effect can be viewed as both beneficial and harmful by different people, or even by the same person.
+* [IOC-1.A.5](#) Advances in computing have generated and increased creativity in other fields, such as medicine, engineering, communications, and the arts.
 
 ## Details
 

@@ -9,11 +9,11 @@ order: 0
 ### Materials
 
 * [Day 2 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBjzd_CMDtjVDv-fbi?e=KkvFaX)
-* Group Activity: [IoT Examples](../iot-examples)
+* Group Activity: [IoT Examples](/unit-2/day-1/iot-examples)
 * Handouts (also used on Day 1):
     * [The Internet as System and Spirit](/unit-2/day-1/internet-system-spirit)
-    * [Guided Reading Questions: The Internet as a System and Spirit](/content/unit-2/day-1/guided-reading-questions)
-    * [Answer Key to Guided Reading Questions](/content/unit-2/day-1/answer-key-guided-reading-notes)
+    * [Guided Reading Questions: The Internet as a System and Spirit](/unit-2/day-1/guided-reading-questions)
+    * [Answer Key to Guided Reading Questions](/unit-2/day-1/answer-key-guided-reading-notes)
 
 ### Instructional Activities and Classroom Assessments 
 

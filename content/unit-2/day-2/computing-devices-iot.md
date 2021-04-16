@@ -8,7 +8,7 @@ order: 0
 
 ### Materials
 
-* Day 2 PowerPoint deck
+* [Day 2 PowerPoint deck](#)
 * Group Activity:- IoT Examples
 * Handouts (also used on Day 1):
     * The Internet as System and Spirit
@@ -24,16 +24,16 @@ order: 0
 
 ### Learning Objectives
 
-* [CSN-1.A]() Explain how computing devices work together in a network.
+* [CSN-1.A](#) Explain how computing devices work together in a network.
 
 ### Essential Knowledge 
 
-* [CSN-1.A.1]() A computing device is a physical artifact that can run a program. Some examples include computers, tablets, servers, routers, and smart sensors.
-* [CSN-1.A.2]() A computing system is a group of computing devices and programs working together for a common purpose. 
-* [CSN-1.A.3]() A computer network is a group of interconnected computing devices capable of sending or receiving data. 
-* [CSN-1.A.4]() A computer network is a type of computing system. 
-* [CSN-1.A.5]() A path between two computing devices on a computer network (a sender and a receiver) is a sequence of directly connected computing devices that begins at the sender and ends at the receiver. 
-* [CSN-1.A.6]() Routing is the process of finding a path from sender to receiver. 
+* [CSN-1.A.1](#) A computing device is a physical artifact that can run a program. Some examples include computers, tablets, servers, routers, and smart sensors.
+* [CSN-1.A.2](#) A computing system is a group of computing devices and programs working together for a common purpose. 
+* [CSN-1.A.3](#) A computer network is a group of interconnected computing devices capable of sending or receiving data. 
+* [CSN-1.A.4](#) A computer network is a type of computing system. 
+* [CSN-1.A.5](#) A path between two computing devices on a computer network (a sender and a receiver) is a sequence of directly connected computing devices that begins at the sender and ends at the receiver. 
+* [CSN-1.A.6](#) Routing is the process of finding a path from sender to receiver. 
 
 ## Details
 
@@ -48,10 +48,10 @@ order: 0
 * Discuss the different types of computing devices:
     * Computers and tablets
     * Smart watches
-    * Gaming systems 
-    * Servers  
-    * Routers 
-    * Embedded systems 
+    * Gaming systems
+    * Servers
+    * Routers
+    * Embedded systems
 
 ### 3. The Internet of Things (25 minutes)
 

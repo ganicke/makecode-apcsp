@@ -22,6 +22,7 @@ Computing system - a group of computing devices and programs working together fo
 **Network interface card** - allows a computer to join a network as a node; a node must have one to be able to join the network.
 
 **Network switches** - central nodes that move messages to nodes in the same network.
+
 **Network router** - connects two or separate networks.
 
 **Network bandwidth** - maximum amount of data that can be sent in a fixed amount of time.
