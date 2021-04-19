@@ -1,6 +1,6 @@
 ---
-title: 'Teaching Tool - Computer Systems and Networks'
-metaTitle: 'Teaching Tool - Computer Systems and Networks'
+title: 'Teaching Tool Presentations'
+metaTitle: 'Teaching Tool Presentations'
 order: 0
 ---
 
@@ -8,20 +8,15 @@ order: 0
 
 ### Materials
 
-* [Day 9 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj0LNGoCTK9Gh_r9w?e=F1UVZv)
-* [Webpage Design Document](/unit-2/day-9/webpage-design-document)
-* [Webpage Design Document](https://1drv.ms/w/s!AqsgsTyHBmRBj0GcwFakEJmF7BZz?e=kryCan) (in Word)
-* [Web Page Project Rubric](/unit-2/day-9/webpage-project-rubric)
-* [Web Page Project Rubric](https://1drv.ms/w/s!AqsgsTyHBmRBj0B65c7OyROKdLh7?e=wbT4wY) (in Word)
+* [Day 12 PowerPoint deck](https://1drv.ms/w/s!AqsgsTyHBmRBj0UCf2ESIb4tkJIW?e=FvhhKG)
+* [Webpage Link for Viewing](/unit-2/day-12/project-reflection) (directions and place for students to share their links)
 
 ### Instructional Activities and Classroom Assessments
 
-1. Introduction to the webpage project (5 minutes)
-2. Select group and topic (5 minutes)
-3. Brainstorm (10 minutes)
-4. Complete Design Document and Reflection (10 minutes)
-5. Begin designing the materials/content for the webpage (20 minutes)
-6. Homework
+1. Introduction (5 minutes)
+2. Project Presentations and Feedback (35 minutes)
+3. Iteration (5 minutes)
+4. Homework
 
 ### Learning Objectives 
 
@@ -38,7 +33,6 @@ order: 0
     1. Compare problem solutions. 
     2. Determine the efficiency of solutions 
 * [CSN-2.B](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=115) Describe benefits and challenges of parallel and distributed computing. 
-* CRD-2.E
 
 ### Essential Knowledge
 
@@ -49,43 +43,28 @@ order: 0
 * [CSN-1.E.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112), [CSN-1.E.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=112)
 * [CSN-2.A.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=114), [CSN-2.A.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115), [CSN-2.A.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=114), [CSN-2.A.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=114), [CSN-2.A.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=114), [CSN-2.A.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=114), [CSN-2.A.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115)
 * [CSN-2.B.1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115), [CSN-2.B.2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115), [CSN-2.B.3](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115), [CSN-2.B.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115), [CSN-2.B.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=115)
-* CRD-2.E.1 
-* CRD-2.E.2 
-* CRD-2.E.4 
 
 ## Details
 
-### 1. Introduction to webpage project (5 minutes)
+### 1. Introduction (5 minutes)
 
-* Explain the project - select a Computer Systems and Networks concept to teach.
-* Work in small groups to teach the concept to others.
-* Create a webpage to teach the concept.
-* Point students to the rubric so they know what their success looks like.
+Explain to students the process for the day.
+Each group will have three minutes (this time will vary depending on your class size).
+After presenting, the audience can give constructive feedback.
 
-### 2. Form groups and select a topic (5 minutes)
+### 2. Present Projects (35 minutes)
 
-* Organize groups as you choose – allow students to select their groups, select groups randomly "out of a hat" or with another random selection process, or you can organize groups purposefully by matching students that you feel need to work together or with similar interests.
-    * You can use the Group Generator program to randomly sort students.
-* Have teams select their Computing System and Networks topic - display the list of concepts and let students select, or assign the challenges randomly by selecting them "out of a hat" or with another random selection process.
-* There are eight topics. If you have less than 16 students, you will need to combine topics that relate to each other and have students work on more than one topic. If you have more than 16, you will need to let more than one group work on a topic.
+* Organize the order of presentations as you choose – allow them to volunteer to present, select the presentation order randomly "out of a hat" or with another random selection process, or you can order the presentations purposefully by having the topics/concepts presented in a logical order. 
+* Set a time for three minutes to keep track of presentations (time will vary depending on class size). 
+* When group finishes presenting, audience can give constructive feedback. (Need to limit feedback to around a minute.)
+* You can utilize any format of feedback. [Glow and Grow](https://artofed-uploads.nyc3.digitaloceanspaces.com/2016/04/GlowAndGrow.jpg) is a suggested feedback strategy.
 
-### 3. Brainstorm ways to teach your topic (10 minutes)
+### 3. Iteration (5 minutes)
 
-* Encourage students to brainstorm ideas for how to teach their concept.
-* Make it clear that although they are creating a webpage, they want to brainstorm creative ways to teach the concept to the reader.
+* Encourage students to engage with the feedback they received on their project.
+    * What are some things you hadn't thought about?
+    * How might you iterate your work to incorporate the feedback?
 
-### 4. Complete a design document (10 minutes)
+### 4. Homework
 
-* Explain what a design document is to students.
-* Students will complete a design document.
-* Students will also complete a reflection document related to their process so far.
-
-### 5. Begin designing the materials/content for the website (20 minutes)
-
-* Students will begin working on content for their webpage.
-* Encourage creativity and real world examples.
-
-### 6. Homework
-
-* Students should assess what tasks need to be completed this evening to finish on time.
-* Students should assign tasks to each partner to complete.
+* Students will complete the [Project Reflection](/unit-2/day-12/project-reflection) page for homework.
