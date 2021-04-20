@@ -57,7 +57,7 @@ order: 0
     * Direct observations
 * [CRD-2.F.4](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=44) Program requirements describe how a program functions and may include a description of user interactions that a program must provide. 
 * [CRD-2.F.5](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=44) A program's specification defines the requirements for the program. 
-* [CRD-2.F.6] In a development process, the design phase outlines how to accomplish a given program specification.
+* [CRD-2.F.6](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=44) In a development process, the design phase outlines how to accomplish a given program specification.
 * [CRD-2.F.7](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles#page=44) The design phase of a program may include: 
     * Brainstorming
     * Planning and storyboarding
