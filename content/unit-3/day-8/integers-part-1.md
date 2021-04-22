@@ -1,6 +1,6 @@
 ---
-title: "Integers Part 1 "
-metaTitle: "Integers Part 1 "
+title: "Integers Part 1"
+metaTitle: "Integers Part 1"
 order: 0
 ---
 
