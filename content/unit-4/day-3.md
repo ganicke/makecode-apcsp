@@ -1,7 +1,7 @@
 ---
-title: "Day 2"
-metaTitle: "Day 2"
-order: 5
+title: "Day 3"
+metaTitle: "Day 3"
+order: 6
 ---
 
 ## Overview
