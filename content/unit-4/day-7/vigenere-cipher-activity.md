@@ -1,10 +1,12 @@
 ---
-title: "MakeCode Arcade - Vigenere Cipher Activity "
+title: "MakeCode Arcade - Vigenere Cipher Activity"
 metaTitle: "MakeCode Arcade - Vigenere Cipher Activity"
 order: 3
 ---
 
 [Vigenere encode decode program - MakeCode.com](https://arcade.makecode.com/87951-72279-92245-16991)
+
+![Vigenere encode decode program](vigenere-encode-decode.jpg)
 
 * This program uses a Vigenère cipher to encode an image and decode the image.
 * At the top of the screen is the color pattern which is used as the encryption key.

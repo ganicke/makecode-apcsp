@@ -6,18 +6,22 @@ order: 2
 
 For Teacher's Use - Key For Message
 
-|   | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | x | y | z |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | m | n | o | p | q | r | s | t |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 2 | a | b | c | d | e | f | g | h |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 3 | k | l | m | n | o | p | q | r |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 4 | e | f | g | h | i | j | k | l |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 5 | c | d | e | f | g | h | i | j |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 6 | o | p | q | r | s | t | u | v |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 7 | d | e | f | g | h | i | j | k |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| 8 | e | f | g | h | i | j | k | l |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|   | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c | d | e | f | g | h | i | j | k | l |
+| 2 | a | b | c | d | e | f | g | h | i | j | k | k | m | n | o | p | q | r | s | t | u | v | w | x | y | z |
+| 3 | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c | d | e | f | g | h | i | j |
+| 4 | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c | d |
+| 5 | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b |
+| 6 | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c | d | e | f | g | h | i | j | k | l | m | n |
+| 7 | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c |
+| 8 | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z | a | b | c | d |
 
-Plaintext  -  PLEASE  STAY  SAFE  ONLINE 
+<br/><br/>
 
-Ciphertext -  BLOEUS  ETKC  EAPI  ANVMPS 
+```
+Plaintext  -  P L E A S E   S T A Y   S A F E   O N L I N E 
+
+Ciphertext -  B L O E U S   E T K C   E A P I   A N V M P S 
+```
 
