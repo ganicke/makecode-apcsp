@@ -1,7 +1,7 @@
 ---
 title: "Debate Topics"
 metaTitle: "Debate Topics"
-order: 3
+order: 1
 ---
 
 You can share these topics with your students on the first day of the unit, or you can choose to wait until later in the unit to share them. If you share them in advance, it would be beneficial to have them displayed in the classroom (and/or on your class website or LMS) so students can see them throughout the unit.
