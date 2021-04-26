@@ -38,8 +38,8 @@ Computers and computing have revolutionized our lives. To use computing safely a
 
 ## Enduring Understandings
 
-* [IOC-1]() While computing innovations are typically designed to achieve a specific purpose, they may have unintended consequences.
-* [IOC-2]() The use of computing innovations may involve risks to personal safety and identity.
+* [IOC-1](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=121) While computing innovations are typically designed to achieve a specific purpose, they may have unintended consequences.
+* [IOC-2](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=128) The use of computing innovations may involve risks to personal safety and identity.
 
 ## Projects and Major Assessments
 
