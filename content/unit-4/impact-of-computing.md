@@ -32,7 +32,7 @@ The questions students will explore in this unit include:
 
 ## Big Ideas
 
-### [Big Idea 5: Impact of Computing (IOC)](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=118)
+[Big Idea 5: Impact of Computing (IOC)](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf#page=118)
 
 Computers and computing have revolutionized our lives. To use computing safely and responsibly, we need to be aware of privacy, security, and ethical issues. As programmers, we need to understand how our programs will be used and be responsible for the consequences. As computer users, we need to understand how to protect ourselves and our privacy when using a computer.
 
@@ -51,36 +51,5 @@ Computers and computing have revolutionized our lives. To use computing safely a
 
 * Unit 4 Educator PowerPoint decks
 * Unit 4 videos
-* Unit 4 Student Activities and Homework Assignments 
-* Internet access to these sites: 
-    * [MakeCode Arcade](https://arcade.makecode.com)
-    * [Blown to Bits Chapter 2](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter2.pdf)
-    * [Blown to Bits Chapter 5](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter5.pdf)
-    * [Blown to Bits Chapter 7](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter7.pdf)
-    * [What is artificial intelligence](https://youtu.be/nASDYRkbQIY)
-    * [The Bitcoin Blockchain Explained](https://youtu.be/M_zCjjy59cg)
-    * [Fold It](https://fold.it/)
-    * [Eterna Game](https://eternagame.org/)
-    * [Phylo](https://phylo.cs.mcgill.ca/)
-    * [Zooniverse](https://www.zooniverse.org/)
-    * [Global Information Technology Report](https://www.insead.edu/sites/default/files/assets/dept/globalindices/docs/GITR-2016-report.pdf#page=32)
-    * [Introducing the Xbox Adaptive Controller](https://youtu.be/9fcK19CAjWM)
-    * [Computing human bias with AI technology](https://youtu.be/RyanJ2h-9-g)
-    * [What is Artificial Intelligence (or Machine Learning)?](https://youtu.be/mJeNghZXtMo)
-    * [Are Risk Assessment Algorithms Fair, or Racist?](https://youtu.be/Gi4YeRqfb24)
-    * [Sharing Information: A Day in Your Life | Federal Trade Commission](https://youtu.be/O5OsQsB7Hg4)
-    * [Cryptii - Caesar Cipher](https://cryptii.com/pipes/caesar-cipher)
-    * [Vigenere encode decode](https://arcade.makecode.com/13486-26863-60368-95323)
-    * [2FA: Two Factor Authentication in 1 minute - For Kids and Parents](https://youtu.be/zvkloHj6aLg)
-    * [Protect Your Computer from Malware | Federal Trade Commission](https://youtu.be/XU8PHihT_P4)
-    * [Cybersecurity Tip Sheets](https://www.cisa.gov/publication/national-cybersecurity-awareness-month-publications)
-    * [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
-    * [MakeCode Arcade on GitHub](https://github.com/microsoft/pxt-arcade/)
-    * [Explore GitHub](https://github.com/explore)
-    * [LAX Implements Thermal Screening To Scan Passengers For Coronavirus Symptoms | NBC Nightly News](https://youtu.be/rIboxokekE0)
-    * [What is Creative Commons?](https://youtu.be/dPZTh2NKTm4)
-    * [What are Creative Commons Licenses?](https://youtu.be/srVPLrmlBJY)
-    * [Smithsonian Open Access: 2.8 Million Images Are Yours to Use](https://youtu.be/B5vC2kweCNk)
-    * [Creative Common Licenses](https://creativecommons.org/about/cclicenses/)
-    * [Open Source Initiative](https://opensource.org/osd)
-    * [Smithsonian Open Access](https://www.si.edu/openaccess)
+* Unit 4 Student Activities and Homework Assignments
+
