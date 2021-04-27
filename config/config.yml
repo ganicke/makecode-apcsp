@@ -40,10 +40,13 @@ sidebar:
       title: ":blue_book: Unit 2 - CSN"
     - order: 4
       path: "/unit-3"
-      title: ":blue_book: Unit 3 - AAP part 1"
+      title: ":blue_book: Unit 3 - AAP Part 1"
     - order: 5
       path: "/unit-4"
       title: ":blue_book: Unit 4 - IOC"
+    - order: 6
+      path: "/unit-5"
+      title: ":blue_book: Unit 5 - AAP Part 2"
   links:
     - text: Microsoft MakeCode
       link: https://makecode.com
