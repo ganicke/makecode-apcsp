@@ -47,6 +47,9 @@ sidebar:
     - order: 6
       path: "/unit-5"
       title: ":blue_book: Unit 5 - AAP Part 2"
+    - order: 7
+      path: /unit-6
+      title: ":blue_book: Unit 6 - DAT"
   links:
     - text: Microsoft MakeCode
       link: https://makecode.com

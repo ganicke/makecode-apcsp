@@ -24,22 +24,22 @@ Of the topics highlighted, craft a big picture question covering that topic:
 <Layout>
 <div>
 Topic idea
-1.)<br>
-2.)<br>
-3.)<br>
-4.)<br>
-5.)<br>
 <hr/>
+1.)<br/>
+2.)<br/>
+3.)<br/>
+4.)<br/>
+5.)<br/>
 </div>
 
 <div>
 Big picture question
 <hr/>
-- <br>
-- <br>
-- <br>
-- <br>
-- <br>
+- <br/>
+- <br/>
+- <br/>
+- <br/>
+- <br/>
 </div>
 </Layout>
 

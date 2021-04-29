@@ -23,29 +23,34 @@ Throughout your data research project, you will follow the data science process.
 ### 1. Plan
 
 * Identify the project goals:
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: What topic will you research? Why?
+
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: What topic will you research? Why?<br/>
+
 * Define the scope of the project:
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: What data will you need?
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: Who will you need to collect data from?
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: Are there any considerations you need to take into account? Language? Survey access?
+
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: What data will you need?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: Who will you need to collect data from?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: Are there any considerations you need to take into account? Language? Survey access?<br/>
+
 * Plan the project:
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: What steps need to be taken to complete the project?
-&nbsp;&nbsp;&nbsp;&nbsp;:white_large_box: How will you collect the data?
-&nbsp;&nbsp;&nbsp;&nbsp;:whitelarge_box: What will you do with the data?
+
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: What steps need to be taken to complete the project?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: How will you collect the data?<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;:white_large_square: What will you do with the data?<br/>
 
 ### 2. Collect
 
-:white_large_box: Determine how many responses you need.
-:white_large_box: Formulate the questions for your survey.
-:white_large_box: Create the survey.
-:white_large_box: Consider any privacy or collection bias issues.
+:white_large_square: Determine how many responses you need.<br/>
+:white_large_square: Formulate the questions for your survey.<br/>
+:white_large_square: Create the survey.<br/>
+:white_large_square: Consider any privacy or collection bias issues.<br/>
 
 ### 4. Data Cleansing
 
-:white_large_box: Inspect the data for any inconsistencies.
-:white_large_box: Amend or remove data because it is incorrect, incomplete, improperly formatted, or duplicated.
-:white_large_box: Organize or categorize the data if necessary.
+:white_large_square: Inspect the data for any inconsistencies.<br/>
+:white_large_square: Amend or remove data because it is incorrect, incomplete, improperly formatted, or duplicated.<br/>
+:white_large_square: Organize or categorize the data if necessary.<br/>
 
 ### 5. Action/Recommendations
 
-:white_large_box: Implement actions, create recommendations and communicate your data study findings to others.
+:white_large_square: Implement actions, create recommendations and communicate your data study findings to others.
