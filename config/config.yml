@@ -56,10 +56,6 @@ sidebar:
     - text: AP Central CSP
       link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles
   ignoreIndex: false
-  poweredBy:
-    trademark: "/assets/gatsby.png"
-    name: GatsbyJS
-    link: https://www.gatsbyjs.org
 pwa:
   enabled: true
   manifest:
