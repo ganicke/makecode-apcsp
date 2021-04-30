@@ -19,7 +19,7 @@ header:
       link: "/"
       external: false
     - text: PL Trainer Materials
-      link: https://www.gatsbyjs.org
+      link: https://aka.ms/MSMakeCodeAPCSPPD
       external: true
 sidebar:
   enabled: true
@@ -48,8 +48,17 @@ sidebar:
       path: "/unit-5"
       title: ":blue_book: Unit 5 - AAP Part 2"
     - order: 7
-      path: /unit-6
+      path: "/unit-6"
       title: ":blue_book: Unit 6 - DAT"
+    - order: 8
+      path: "/unit-7"
+      title: ":blue_book: Unit 7 - CPT"
+    - order: 9
+      path: "/unit-8"
+      title: ":blue_book: Unit 8 - Exam Prep"
+    - order: 10
+      path: "/unit-9"
+      title: ":blue_book: Unit 9 - Service Learning"
   links:
     - text: Microsoft MakeCode
       link: https://makecode.com

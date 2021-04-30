@@ -1,6 +1,6 @@
 ---
-title: "Algorithms and Programming (AAP) Part 2"
-metaTitle: "Algorithms and Programming (AAP) Part 2"
+title: "Unit 5 Vocab"
+metaTitle: "Unit 5 Vocab"
 order: 1
 ---
 
