@@ -4,8 +4,6 @@ metaTitle: 'Design Thinking'
 order: 0
 ---
 
-import {Link} from 'gatsby'
-
 ## Summary
 
 ### Materials
@@ -18,7 +16,7 @@ import {Link} from 'gatsby'
 * Optional: [Micro:bit Micro Pet Activity](/unit-1/day-6/micro-pet-activity)
 * Optional: [Minecraft Build a House](/unit-1/day-6/minecraft-build-house/)
 
-* <Link to="/unit-1/day-6/minecraft-build-house/">Test: Minecraft Build a House</Link>
+<a href="/unit-1/day-6/minecraft-build-house/" >Minecraft Build a House</a>
 
 ### Instructional Activities and Classroom Assessments
 
