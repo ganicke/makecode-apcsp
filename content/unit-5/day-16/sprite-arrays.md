@@ -69,9 +69,9 @@ order: 0
 * [AAP-2.O.1]() Traversing a list can be a complete traversal, where all elements in the list are accessed, or a partial traversal, where only a portion of elements are accessed.<br/>
 XEXCLUSIONSTATEMENT(EKAAP-2.O.1): Traversing multiple lists at the same time using the same index for both (parallel traversals) is outside the scope of this course and the AP Exam.
 * AAP-2.K.1 Iteration statements change the sequential flow of control by repeating a set of statements zero or more times, until a stopping condition is met.
-* AAP-2.K.2 The exam reference sheet provides Text: REPEAT n TIMES {    <block of statements> } Block: REPEAT  n  TIMES<br/>
-block of statements<br/>
-in which the block of statements is executed n times.
+* AAP-2.K.2 The exam reference sheet provides
+    * Text: REPEAT n TIMES { &lt;block of statements&gt; }
+    * Block: REPEAT n TIMES block of statements in which the block of statements is executed n times.
 * AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.   
 
 ## Details

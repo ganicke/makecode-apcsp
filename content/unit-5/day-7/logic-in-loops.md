@@ -52,19 +52,14 @@ order: 0
 These are used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example,  a = b evaluates to true if a and b are equal; otherwise, it evaluates  to false.
 
 * [AAP-2.H.1]() Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression.
-* [AAP-2.H.2]() The exam reference sheet provides Text: IF(condition) {    <block of statements> }<br/>
-Block: IF condition<br/>
-block of statements<br/>
-in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.  
-
+* [AAP-2.H.2]() The exam reference sheet provides
+    * Text: IF(condition) { &lt;block of statements&gt; }
+    * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
 * [AAP-2.K.1]() Iteration statements change the sequential flow of control by repeating a set of statements zero or more times, until a stopping condition is met.
-* [AAP-2.K.3]() The exam reference sheet provides<br/>
-Text: REPEAT UNTIL(condition) { <block of statements> } Block: REPEAT UNTIL<br/>
-block of statements<br/>
-condition <br/>
-in which the code in block of statements is repeated until the Boolean expression condition evaluates to true.  
-
-* [AAP-2.K.4]() In REPEAT UNTIL(condition) iteration, an infinite loop occurs when the ending condition will never evaluate to true. 
+* [AAP-2.K.3]() The exam reference sheet provides
+    * Text: REPEAT UNTIL(condition) { &lt;block of statements&gt; }
+    * Block: REPEAT UNTIL block of statements condition in which the code in block of statements is repeated until the Boolean expression condition evaluates to true.
+* [AAP-2.K.4]() In REPEAT UNTIL(condition) iteration, an infinite loop occurs when the ending condition will never evaluate to true.
 * [AAP-2.K.5]() In REPEAT UNTIL(condition) iteration, if the conditional evaluates to true initially, the loop body is not executed at all, due to the condition being checked before the loop.
 
 ## Details

@@ -61,8 +61,9 @@ These are used to test the relationship between two variables, expressions, or v
 * [AAP-2.F.4]() The exam reference sheet provides Text: condition1 OR condition2 Block: condition1 OR condition2 which evaluates to true if condition1 is true or if condition2 is true or if both condition1 and condition2 are true; otherwise it evaluates to false.
 * [AAP-2.F.5]() The operand for a logical operator is either a Boolean expression or a single Boolean value.
 * [AAP-2.H.1]() Conditional statements, or "if-statements," affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
-* [AAP-2.H.2]() The exam reference sheet provides<br/>Text: IF(condition) {    <block of statements> }<br/>Block: IF condition<br/>
-block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
+* [AAP-2.H.2]() The exam reference sheet provides
+    * Text: IF(condition) { &lt;block of statements&gt; }
+    * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
 * [AAP-2.I.1]() Nested conditional statements consist of conditional statements within conditional statements. 
 
 ## Details

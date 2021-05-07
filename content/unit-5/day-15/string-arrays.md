@@ -65,16 +65,17 @@ order: 0
 § removing elements Text: REMOVE(aList, i) Block: REMOVE aList, i removes the item at index i in aList and shifts to the left any values at indices greater than i. The length of aList is decreased by 1.<br/>
 § determining the length of a list Text: LENGTH(aList) Block: LENGTH aList evaluates to the number of elements currently in aList.
 * [AAP-2.N.2]() List procedures are implemented in accordance with the syntax rules of the programming language. 
-AAP-2.O.1 Traversing a list can be a complete traversal, where all elements in the list are accessed, or a partial traversal, where only a portion of elements are accessed.<br/>
+* AAP-2.O.1 Traversing a list can be a complete traversal, where all elements in the list are accessed, or a partial traversal, where only a portion of elements are accessed.<br/>
 XEXCLUSIONSTATEMENT(EKAAP-2.O.1): Traversing multiple lists at the same time using the same index for both (parallel traversals) is outside the scope of this course and the AP Exam. 
 * [AAP-2.O.2]() Iteration statements can be used to traverse a list.
-* AAP-2.O.3 The exam reference sheet provides Text: FOR EACH item IN aList {  <block of statements> } Block: FOR EACH item IN aList<br/>
-block of statements<br/>
-The variable item is assigned the value of each element of aList sequentially, in order, from the first element to the last element. The code in block of statements is executed once for each assignment of item.  
+* AAP-2.O.3 The exam reference sheet provides
+    * Text: FOR EACH item IN aList { &lt;block of statements&gt; }
+    * Block: FOR EACH item IN aList block of statements
+    * The variable item is assigned the value of each element of aList sequentially, in order, from the first element to the last element. The code in block of statements is executed once for each assignment of item.  
 * [CRD-2.C.2]() An event is associated with an action and supplies input data to a program.
 * [CRD-2.C.3]() Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.  
-AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.   
-AAP-2.B.7 Clarity and readability are important considerations when expressing an algorithm in a programming language.
+* AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.   
+* AAP-2.B.7 Clarity and readability are important considerations when expressing an algorithm in a programming language.
 
 ## Details
 

@@ -59,11 +59,9 @@ These are used to test the relationship between two variables, expressions, or v
 * AAP-2.F.2 The exam reference sheet provides Text: NOT condition Block: NOT condition which evaluates to true if condition is false; otherwise it evaluates to false.
 * [AAP-2.F.5]() The operand for a logical operator is either a Boolean expression or a single Boolean value. 
 * [AAP-2.H.1]() Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression.
-* [AAP-2.H.2]() The exam reference sheet provides Text: IF(condition) { <block of statements> } Block:<br/>
-IF condition<br/>
-block of statements<br/>
-in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.  
-
+* [AAP-2.H.2]() The exam reference sheet provides
+    * Text: IF(condition) { &lt;block of statements&gt; }
+    * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
 * CRD-2.C.1 Program inputs are data sent to a computer for processing by a program. Input can come in a variety of forms, such as tactile, audio, visual, or text.
 * CRD-2.C.4 Inputs usually affect the output produced by a program.
 * CRD-2.C.6 Input can come from a user or other programs.

@@ -50,12 +50,10 @@ order: 0
 These are used to test the relationship between two variables, expressions, or values. A comparison using a relational operator evaluates to a Boolean value. For example,  a = b evaluates to true if a and b are equal; otherwise, it evaluates  to false.
 
 * [AAP-2.H.1]() Conditional statements, or “if-statements,” affect the sequential flow of control by executing different statements based on the value of a Boolean expression. 
-* [AAP-2.H.2]() The exam reference sheet provides Text: IF(condition) { <block of statements> } Block:<br/>
-IF condition<br/>
-block of statements<br/> 
-in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
-
-AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.
+* [AAP-2.H.2]() The exam reference sheet provides
+    * Text: IF(condition) { &lt;block of statements&gt; }
+    * Block: IF condition block of statements in which the code in block of statements is executed if the Boolean expression condition evaluates to true; no action is taken if condition evaluates to false.
+* AAP-3.E.1 The exam reference sheet provides RANDOM(a, b) Block: RANDOM  a, b which generates and returns a random integer from a to b, inclusive. Each result is equally likely to occur. For example, RANDOM(1, 3) could return 1, 2, or 3.
 * [CRD-2.C.2]() An event is associated with an action and supplies input data to a program.
 * [CRD-2.C.3]() Events can be generated when a key is pressed, a mouse is clicked, a program is started, or any other defined action occurs that affects the flow of execution.
 
